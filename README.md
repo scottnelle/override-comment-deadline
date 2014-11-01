@@ -1,4 +1,8 @@
-override-comment-deadline
+Override Comment Deadline
 =========================
 
-WordPress lets you set a number of days after which comments will be unavailable for individual posts. This plugin will allow you to keep commenting open on specific posts.
+Allows you to enable comments on posts which are older than the comment deadline set in discussion settings.
+
+==Use==
+* Set a comment deadline in Settings > Discussion. Closing comments on old posts is a great way to avoid spam comments.
+* Edit an individual post on which you'd like to keep discussion open indefinitely and check the Override Comment Deadline box.

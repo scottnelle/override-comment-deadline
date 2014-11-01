@@ -5,7 +5,7 @@ Plugin URI: http://www.scottnelle.com
 Description: Allows you to enable comments on posts which are older than the comment deadline set in discussion settings
 Author: Scott Nelle, Union Street Media
 Author URI: http://www.scottnelle.com
-Version: 0.1
+Version: 1.0
 */
 
 /*  Copyright 2014  Scott Nelle  (email : contact@scottnelle.com)
